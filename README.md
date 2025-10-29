@@ -5,7 +5,7 @@
   
   <div align="center">
     <p>
-      I'm <b>Fabio</b>: bioinformatician with a PhD in Health Biology, specialized in <b>genomics and bioinformatics</b> 🧬 from Aix-Marseille University 🎓.
+      I'm <b>Fabio</b>: bioinformatician with a PhD in Health Biology, <br> specialized in <b>genomics and bioinformatics</b> 🧬 from Aix-Marseille University 🎓.
     </p>
     <p>
       My research focuses on analyzing <b>multi-omics data</b> across healthcare, evolutionary biology, and more. <br>I developed 2 interactive web tools to help biologists investigate multi-omics data, check it out:
@@ -15,11 +15,11 @@
       🔹 <a href="https://kailash.ibdm.univ-amu.fr/AnnoMiner/">Annominer</a> – to infer gene regulation from expression and occupancy data integration
     </p>
     <p>
-      My research interests are: &emsp;
-      🔬 Computational biology for precision medicine in oncology &emsp;
-      ⚡ Genome disruption & structural variants in cancer
-      🔍 Pipelines development for FAIR science &emsp;
-      🧬 Gene regulation &emsp;
+      My research interests are: <br>
+      🔬 Computational biology for precision medicine in oncology <br>
+      ⚡ Genome disruption & structural variants in cancer <br>
+      🔍 Pipelines development for FAIR science <br>
+      🧬 Gene regulation <br>
     </p>
    </div> 
  </html>
