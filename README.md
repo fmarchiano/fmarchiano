@@ -4,10 +4,6 @@
   </h1>
   
   <div align="center">
-  <a href="">[![LinedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiomarchiano/)</a>
-</div>
-  
-  <div align="center">
     <p>
       I'm <b>Fabio</b>: bioinformatician with a PhD in Health Biology, specialized in <b>genomics and bioinformatics</b> 🧬 from Aix-Marseille University 🎓.
     </p>
