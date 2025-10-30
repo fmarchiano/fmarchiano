@@ -16,10 +16,11 @@
     </p>
     <p>
       My research interests are: <br>
-      🔬 Computational biology for precision medicine in oncology <br>
-      ⚡ Genome disruption & structural variants in cancer <br>
-      🔍 Pipelines development for FAIR science <br>
-      🧬 Gene regulation <br>
+      🧬 Cancer genomics & precision medicine <br>
+      ⚙️ Gene regulation <br>
+      ⚡ Mitochondrial dynamics in ageing and disease <br>
+      🧠 Pipelines development for FAIR science <br>
+      💻 Interactive & integrative multi-omics web-tool development <br>
     </p>
    </div> 
  </html>
