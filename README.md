@@ -17,8 +17,6 @@
     <p>
       My research interests are: <br>
       🧬 Cancer genomics & precision medicine <br>
-      ⚙️ Gene regulation <br>
-      ⚡ Mitochondrial dynamics in ageing and disease <br>
       🧠 Pipelines development for FAIR science <br>
       💻 Interactive & integrative multi-omics web-tool development <br>
     </p>
