@@ -5,7 +5,7 @@
   
   <div align="center">
     <p>
-      I'm <b>Fabio</b>: bioinformatician with a PhD in Health Biology: genomics and bioinformatics 🧬 from Aix-Marseille University 🎓
+      My name is <b>Fabio</b> and I'm bioinformatician with a PhD in Health Biology: genomics and bioinformatics 🧬 from Aix-Marseille University 🎓
     </p>
     <p>
       My research focuses on analyzing <b>multi-omics data</b> across healthcare, evolutionary biology, and more. <br>I developed 2 interactive web tools to help biologists investigate multi-omics data, check it out:
