@@ -1,24 +1,32 @@
-<html>
-  <h1 align="center"> 
-    Hi folks! Welcome to my GitHub account 👋
-  </h1>
-  
-  <div align="center">
-    <p>
-      My name is <b>Fabio</b> and I'm a bioinformatician with a PhD in Health Biology: genomics and bioinformatics 🧬 from Aix-Marseille University 🎓
-    </p>
-    <p>
-      My research focuses on analyzing <b>multi-omics data</b> across healthcare, evolutionary biology, and more. <br>I developed 2 interactive web tools to help biologists investigate multi-omics data, check it out:
-    </p>
-    <p>
-      🔹 <a href="https://mitoxplorer3.ibdm.univ-amu.fr/index.php">mitoXplorer</a> – to explore mitochondrial data interactively <br>
-      🔹 <a href="https://kailash.ibdm.univ-amu.fr/AnnoMiner/">Annominer</a> – to infer gene regulation from expression and occupancy data integration
-    </p>
-    <p>
-      My research interests are: <br>
-      🧬 Cancer genomics & precision medicine <br>
-      🧠 Pipelines development for FAIR science <br>
-      💻 Interactive & integrative multi-omics web-tool development <br>
-    </p>
-   </div> 
- </html>
+# Hey, I'm Fabio 👋
+
+PhD in health biology: genomics and bioinformatics, but I escaped the lab ☀️
+
+I build things: bioinformatics pipelines, 
+interactive data tools, Arduino circuits, 
+generative sketches, and occasionally a website 
+that does something it probably shouldn't.
+
+## what I actually do
+
+🧬 **genomics & multi-omics** — WGS, transcriptomics, epigenomics,
+   proteomics, the whole stack  
+🔬 **tools I built** — mitoXplorer (mitochondrial 
+   data explorer) · Annominer (gene regulation inference)  
+💻 **creative coding** — Processing, p5.js, Pure Data,
+   generative art  
+⚡ **maker/DIY** — Arduino,
+   electronics, domotics (KNX)  
+🎓 **teaching** — programming, physics/electronics, 
+   creative coding for 16–26yo and AI literacy
+
+## stack
+
+`Python` `R` `Bash` `JavaScript` 
+`Nextflow` `GNU Make`
+
+## currently 
+
+Building at the intersection of biological data, 
+creative technology, and physical computing.
+Available for building weird, useful things.
