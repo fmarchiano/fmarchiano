@@ -28,6 +28,6 @@ that does something it probably shouldn't.
 ## currently 
 
 Building weird, useful things at the intersection of biological data, 
-creative technology, and physical computing.
+creative technology, and physical computing. <br>
 If I'm not doing this, I'm recording some new song or playing outdoors. See you!
 
