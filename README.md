@@ -10,7 +10,9 @@ that does something it probably shouldn't.
 
 🧬 **genomics & multi-omics** — WGS, transcriptomics, epigenomics,
    proteomics, the whole stack  
+   
 💻 **bioinformatic pipelines** — GNUMake / Nextflow pipelines hosted in HPC/Cloud (AWS)
+
 🔬 **platforms I built** — mitoXplorer (mitochondrial 
    data explorer) · Annominer (gene regulation inference)  
 
